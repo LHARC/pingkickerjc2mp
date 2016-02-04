@@ -6,8 +6,8 @@ High Ping Kicker JC-MP
 -- * Ping Limit Kicker 0.1 *
 
 -- * Written by Lucas H. (Stoppered) & Techjar *
--- * Contact-me at webmaster@whispers.com.br --*/
--- * http://www.cshpforum.com *
+-- * Contact-me at contato@lucas-henrique.com --*/
+-- * http://lucas-henrique.com
 
 
 Features you can set how many seconds the ping check is done you can configure the messages when the player is kicked notifies all online users what user X was kicked for having high ping, warns the user when approaching the limit of the ping
