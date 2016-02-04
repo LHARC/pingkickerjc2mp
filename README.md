@@ -1,11 +1,12 @@
 pingkickerjcmp
 ==============
 
-High Ping Kicker JC-MP
+High Ping Kicker JC2-MP
 
 -- * Ping Limit Kicker 0.1 *
 
 -- * Written by Lucas H. (Stoppered) & Techjar *
+
 -- * Contact-me at contato@lucas-henrique.com --*/
 -- * http://lucas-henrique.com
 
